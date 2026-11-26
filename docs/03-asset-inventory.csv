@@ -1,0 +1,15 @@
+ID,Asset,Type,Owner,Location,Classification,Business Value
+A01,"Microsoft 365 Tenant (Exchange, Teams, SharePoint)",Cloud / SaaS Application,IT Operations Manager,Cloud (Microsoft Azure),Confidential,High
+A02,"AWS Cloud Infrastructure (EC2, RDS, S3)",Cloud Infrastructure,Lead DevOps Engineer,Cloud (AWS US-East),Restricted,Critical
+A03,Shopify Plus E-Commerce Storefront,SaaS Platform,E-Commerce Operations Lead,Cloud (Shopify SaaS),Confidential,Critical
+A04,Stripe Payment Gateway & Tokenization Portal,Payment Service / SaaS,Finance & Billing Manager,Cloud (Stripe PCI-DSS),Restricted,Critical
+A05,GitHub Enterprise Source Code Repositories,SaaS / Development Platform,Engineering Lead,Cloud (GitHub),Confidential,High
+A06,Customer PII & Order History Database,Information / Data Asset,Data Protection Officer,AWS RDS & Shopify,Restricted,Critical
+A07,Payment Transaction & Refund Logs,Information / Data Asset,Finance & Billing Manager,Stripe & AWS S3,Restricted,Critical
+A08,"Employee HR, Payroll & Tax Records",Information / Data Asset,HR Director,Microsoft 365 SharePoint,Restricted,High
+A09,Proprietary Application Source Code & CI/CD Secrets,Information / IP Asset,Engineering Lead,GitHub & AWS Secrets Manager,Restricted,Critical
+A10,Corporate Identity Provider (Entra ID / SSO & MFA),Identity & Access System,Information Security Lead,Cloud (Microsoft Entra ID),Restricted,Critical
+A11,Managed Remote Employee Laptops (120 Units),Hardware / Endpoint,IT Support Lead,Remote Staff Locations,Confidential,High
+A12,Corporate Office Workstations (65 Units),Hardware / Endpoint,IT Support Lead,CHMart Corporate Office,Internal,Medium
+A13,Office Network Firewall & Segmented Wi-Fi Infrastructure,Network Hardware,Network Administrator,CHMart Corporate Office,Confidential,High
+A14,Public Marketing Website & Product Catalog Assets,Digital Media / Public Content,Digital Marketing Manager,Shopify CDN,Public,Low
