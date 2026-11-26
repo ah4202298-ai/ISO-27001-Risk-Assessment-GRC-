@@ -1,7 +1,7 @@
 
 # ISO/IEC 27001:2022 Information Security Risk Assessment & GRC Portfolio — CHMart
 
-![CHMart Risk Register](assets/risk-register-preview.png)
+![CHMart Risk Register](assets/risk register img.png)
 
 > **Framework:** ISO/IEC 27001:2022 | **Organization:** CHMart (Fictional) | **Author:** Muhammad Ahmed
 
